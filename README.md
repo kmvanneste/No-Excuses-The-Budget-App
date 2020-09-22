@@ -5,7 +5,7 @@ Keep your account balanced with The Budget App.  Users can add expenses and depo
 1. [About](#about)
 2. [Languages Used](#languages)
 3. [Contributing](#contribute)
-3. [Access & Appearance](#access) 
+4. [Access & Appearance](#access) 
 
 ## About <a name="about"></a>
 
