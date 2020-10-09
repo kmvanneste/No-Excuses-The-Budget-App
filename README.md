@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/License-Unlicensed-blue.svg" align="right"/>
+
 # No-Excuses-The-Budget-App
 Keep your account balanced with The Budget App.  Users can add expenses and deposits to their budget with or without an internet connection.
 
