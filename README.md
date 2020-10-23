@@ -28,4 +28,4 @@ If you are interested in contributing to this project, feel free to fork this re
 
 <a href="https://no-excuses-the-budget-app.herokuapp.com/" target="_blank">LINK to application</a>
 
-![image](webpage.png)
+![image](./public/images/webpage.png)
