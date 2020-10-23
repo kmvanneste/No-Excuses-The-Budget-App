@@ -4,11 +4,21 @@ body {
   background-image: url("./images/money.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .Header {
   text-align: center;
-  text-decoration: underline;
+}
+
+.title {
+  /* text-decoration: underline; */
+  font-family: 'Libre Baskerville', serif;
+}
+
+.subtitle {
+  margin-top: -5px;
+  margin-bottom: 25px;
 }
 
 button, input {
